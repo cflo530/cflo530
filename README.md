@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cflo530
 - 👀 I’m interested in coding, mathematics, music.
-- 🌱 I’m currently a 3rd year Computer Science student at UC Irvine in California.
+- 🌱 I’m currently a 4th year Computer Science student at UC Irvine in California.
 - 📫 How to reach me cflo530@me.com
 
 <!---
