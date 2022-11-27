@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos Flores
 - 👀 I’m interested in coding, mathematics, and music.
-- 🌱 I’m currently a freelance Jr Software Developer.
+- 🌱 I’m currently a frontend software engineer for Extron.
 - 📫 How to reach me ceflores530@gmail.com
 
 <!---
